@@ -1,0 +1,5 @@
+D:\Programming\qsp-dotnet\qsp-dotnet\qsp-dotnet\bin\Debug\qsp-dotnet.dll
+D:\Programming\qsp-dotnet\qsp-dotnet\qsp-dotnet\bin\Debug\qsp-dotnet.pdb
+D:\Programming\qsp-dotnet\qsp-dotnet\qsp-dotnet\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\qsp-dotnet\qsp-dotnet\qsp-dotnet\obj\Debug\qsp-dotnet.dll
+D:\Programming\qsp-dotnet\qsp-dotnet\qsp-dotnet\obj\Debug\qsp-dotnet.pdb
